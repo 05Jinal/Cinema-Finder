@@ -1,0 +1,10 @@
+
+.container:hover {
+    background-color: #EEEEEE;
+  
+    transition: background-color 0.3s ease;
+}
+
+/* .container:hover {
+    background-color: #D3D3D3;
+} */
